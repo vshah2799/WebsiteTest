@@ -7,6 +7,10 @@ body {
     color: red;
 }
 
+#header li{
+    display: inline;
+}
+
 h1{
     font-size: 200%;
 }
