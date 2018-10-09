@@ -7,6 +7,10 @@ body {
     color: red;
 }
 
+#footer h1{
+    color: red;
+}
+
 #header li{
     display: inline;
 }
